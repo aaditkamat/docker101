@@ -1,2 +1,2 @@
 # Docker Project
-Sample Docker project for https://TheSimpleEngineer.com
+Sample Docker project for DYOM
